@@ -1,0 +1,4 @@
+[submodule "hersan"]
+	path = hersan
+	url = git@git.vauxoo.com:vauxoo/hersan.git
+	branch = 12.0
