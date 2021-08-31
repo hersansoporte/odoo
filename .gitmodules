@@ -21,3 +21,5 @@
 [submodule "server-ux"]
 	path = server-ux
 	url = git@github.com:Vauxoo/server-ux.git
+    branch = 14.0
+
