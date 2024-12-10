@@ -1,1 +1,2 @@
-git clone --recurse-submodules --branch Testing18 git@github.com:hersansoporte/odoo.git
+
+git clone --branch Testing18 https://github.com/odoo/enterprise.git
