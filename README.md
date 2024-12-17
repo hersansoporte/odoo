@@ -1,2 +1,1 @@
-
-git clone --branch Testing18 https://github.com/odoo/enterprise.git
+$ git commit --allow-empty -m 'Trigger update'; git push
